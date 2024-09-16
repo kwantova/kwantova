@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kwantova
-- 👀 Statistics, backend dev. 
-- 🌱 I’m currently learning MPEI comp-sci
+- 👋 hi, I’m @kwantova
+- 👀 statistics, backend dev, linux. 
+- 🌱 i’m currently learning MPEI comp-sci
 - ✨ kwantova@gmail.com
