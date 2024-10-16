@@ -1,3 +1,3 @@
 - 👋 hi, I’m @kwantova 
-- 🌱 i’m currently learning MPEI comp-sci
+- 🌱 i’m currently learning MPEI
 - ✨ kwantova@gmail.com
