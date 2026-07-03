@@ -1,3 +1,3 @@
 - 👋 hi, I’m @kwantova 
-- 🌱 i’m currently learning MPEI
+- 🌱 data visualization & data science & ML
 - ✨ kwantova@gmail.com
